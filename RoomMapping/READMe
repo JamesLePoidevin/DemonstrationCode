@@ -1,0 +1,3 @@
+Graphical Interface for a room mapping application.
+
+The appilication is able to control a mobile robot that has a bluetooth emetteur/recever. The mobile robot sends the its position and the wheel movements.
