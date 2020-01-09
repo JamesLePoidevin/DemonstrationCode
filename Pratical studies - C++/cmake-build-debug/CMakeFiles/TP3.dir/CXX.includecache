@@ -1,0 +1,72 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/James Le Poidevin/CLionProjects/TP4nouv/Article.cpp
+Article.h
+/cygdrive/c/Users/James Le Poidevin/CLionProjects/TP4nouv/Article.h
+utility
+-
+
+/cygdrive/c/Users/James Le Poidevin/CLionProjects/TP4nouv/Article.h
+iostream
+-
+string
+-
+Document.h
+/cygdrive/c/Users/James Le Poidevin/CLionProjects/TP4nouv/Document.h
+
+/cygdrive/c/Users/James Le Poidevin/CLionProjects/TP4nouv/Biblio.cpp
+Biblio.h
+/cygdrive/c/Users/James Le Poidevin/CLionProjects/TP4nouv/Biblio.h
+
+/cygdrive/c/Users/James Le Poidevin/CLionProjects/TP4nouv/Biblio.h
+list
+-
+iostream
+-
+Document.h
+/cygdrive/c/Users/James Le Poidevin/CLionProjects/TP4nouv/Document.h
+
+/cygdrive/c/Users/James Le Poidevin/CLionProjects/TP4nouv/Document.cpp
+Document.h
+/cygdrive/c/Users/James Le Poidevin/CLionProjects/TP4nouv/Document.h
+utility
+-
+
+/cygdrive/c/Users/James Le Poidevin/CLionProjects/TP4nouv/Document.h
+iostream
+-
+string
+-
+
+/cygdrive/c/Users/James Le Poidevin/CLionProjects/TP4nouv/Livre.cpp
+Livre.h
+/cygdrive/c/Users/James Le Poidevin/CLionProjects/TP4nouv/Livre.h
+utility
+-
+
+/cygdrive/c/Users/James Le Poidevin/CLionProjects/TP4nouv/Livre.h
+iostream
+-
+string
+-
+Document.h
+/cygdrive/c/Users/James Le Poidevin/CLionProjects/TP4nouv/Document.h
+
+/cygdrive/c/Users/James Le Poidevin/CLionProjects/TP4nouv/main.cpp
+iostream
+-
+Document.h
+/cygdrive/c/Users/James Le Poidevin/CLionProjects/TP4nouv/Document.h
+Livre.h
+/cygdrive/c/Users/James Le Poidevin/CLionProjects/TP4nouv/Livre.h
+Article.h
+/cygdrive/c/Users/James Le Poidevin/CLionProjects/TP4nouv/Article.h
+Biblio.h
+/cygdrive/c/Users/James Le Poidevin/CLionProjects/TP4nouv/Biblio.h
+
